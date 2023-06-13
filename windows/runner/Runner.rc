@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "pertemuan_2" "\0"
+            VALUE "FileDescription", "aplikasi_flutter_pertamaku" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "pertemuan_2" "\0"
+            VALUE "InternalName", "aplikasi_flutter_pertamaku" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "pertemuan_2.exe" "\0"
-            VALUE "ProductName", "pertemuan_2" "\0"
+            VALUE "OriginalFilename", "aplikasi_flutter_pertamaku.exe" "\0"
+            VALUE "ProductName", "aplikasi_flutter_pertamaku" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
